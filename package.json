@@ -1,7 +1,7 @@
 {
   "name": "frontflow",
   "version": "1.0.0",
-  "description": "A starter application that serves as an example of how to accomplish some common frontend tasks and workflows and improve your development.",
+  "description": "A starter application that serves as an example of how to accomplish some common frontend tasks and workflows which will improve your development.",
   "author": "Greg Raaum",
   "license": "ISC",
   "scripts": {
