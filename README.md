@@ -2,12 +2,14 @@
 A starter application that serves as an example of how to accomplish some common frontend tasks and workflows and improve your development. Write better code and deploy your apps more easily and efficiently by processing your Sass, Compass, and CoffeeScript sources at the development stage, prior to production, using Gulp, Git, and Browserify.
 
 ## Features:
-- Process tasks with Gulp
-- Import libraries with Browserify
+- Processes tasks with Gulp
+- Imports libraries with Browserify
 - Incorporates Sass and Compass
 - Issues tasks in sequence
 - Watches changes to files
+- Add environmental variables
 - Adds static reloads
+- Minifies your JavaScript
 - Minifies your HTML
 - Minifies your JSON
 - Compresses your images
