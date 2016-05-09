@@ -8,7 +8,7 @@ A starter application that serves as an example of how to accomplish some common
 - Incorporates Sass and Compass
 - Issues tasks in sequence
 - Watches changes to files
-- Add environmental variables
+- Adds environmental variables
 - Adds static reloads
 - Minifies your JavaScript
 - Minifies your HTML
