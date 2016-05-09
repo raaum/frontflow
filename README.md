@@ -18,8 +18,8 @@ Write better code and deploy your apps more easily and efficiently by processing
 - Compresses your images
 - Includes an example application
 
-##Note
-You need to have Ruby and Compass installed and in your system PATH to initialize this project.
+##Example Application Notes
+You need to have Ruby and Compass installed and in your system PATH to use the example application.
 
 ####Setting Paths:
 - Win `$ set PATH=%PATH%;C:\Ruby200-x64\bin`
