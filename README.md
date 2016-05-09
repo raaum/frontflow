@@ -21,7 +21,7 @@ Write better code and deploy your apps more easily and efficiently by processing
 - Compresses your images
 - Includes an example application
 
-##Example Application Notes
+##Example Application
 You need to have Ruby and Compass installed and in your system PATH to use the example application.
 
 ####Setting Paths:
