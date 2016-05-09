@@ -15,7 +15,7 @@
     "url": "https://github.com/raaum/frontflow/issues"
   },
   "homepage": "https://github.com/raaum/frontflow#readme",
-    "devDependencies": {
+  "devDependencies": {
         "compass": "^0.1.1",
         "gulp": "^3.9.1",
         "gulp-util": "^3.0.7",
