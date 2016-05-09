@@ -9,6 +9,7 @@ A starter application that serves as an example of how to accomplish some common
 - Watches changes to files
 - Adds static reloads
 - Minifies your HTML
+- Minifies your JSON
 - Compresses your images
 
 ## Installation
