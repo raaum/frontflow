@@ -26,7 +26,7 @@ You need to have Ruby and Compass installed and in your system PATH to initializ
 - Mac `$ export PATH=/usr/local/bin:$PATH`
 
 ####What is is Ruby and Compass?
-If you don't know what Ruby or Compass is, or don't know how to install it, that's okay.  Just use `gulpfile.js` and `package.json` as an example of how to construct your own workflow. The application is not the gold here.  The process is the gold.
+If you don't know what Ruby or Compass is, or don't know how to install it, that's okay.  Just use `gulpfile.js` and `package.json` as an example of how to construct your own workflow. The application is not the gold here.  The process is the gold.  The application is just thrown in to show you that it works.  It works.
 
 ## Installation
 1. Install Gulp, Git, and Node
