@@ -1,0 +1,35 @@
+{
+	"name": "frontflow",
+	"version": "1.0.0",
+	"description": "A starter repo for frontend workflows.",
+	"author": "Greg Raaum",
+	"license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/raaum/frontflow.git"
+	},
+  "bugs": {
+    "url": "https://github.com/raaum/frontflow/issues"
+  },
+  "homepage": "https://github.com/raaum/frontflow#readme",
+	"devDependencies": {
+		"gulp": "^3.9.1",
+		"gulp-util": "^3.0.7",
+		"gulp-browserify": "^0.5.1",
+		"gulp-uglify": "^1.5.3",
+		"gulp-coffee": "^2.3.2",
+		"gulp-concat": "^2.6.0",
+		"gulp-compass": "^2.1.0",
+		"gulp-connect": "^4.0.0",
+		"gulp-if": "^2.0.1",
+		"gulp-htmlmin": "^2.0.0",
+		"gulp-jsonminify": "^1.0.0",
+		"gulp-imagemin": "^3.0.0",
+		"jquery": "^2.2.3",
+		"imagemin-pngcrush": "^4.1.0",
+		"mustache": "^2.2.1"
+	}
+}
