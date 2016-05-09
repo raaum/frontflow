@@ -1,5 +1,5 @@
 #frontflow
-A starter application that serves as an example of how to accomplish some common frontend tasks and workflows and improve your development.
+A starter application that serves as an example of how to accomplish some common frontend tasks and workflows, which will improve your development.
 
 Write better code and deploy your apps more easily and efficiently by processing your Sass, Compass, and CoffeeScript sources at the development stage, prior to production, using Gulp, Git, and Browserify.
 
