@@ -1,7 +1,7 @@
 {
   "name": "frontflow",
   "version": "1.0.0",
-  "description": "A starter repo for frontend workflows.",
+  "description": "A starter application that serves as an example of how to accomplish some common frontend tasks and workflows and improve your development.",
   "author": "Greg Raaum",
   "license": "ISC",
   "scripts": {
