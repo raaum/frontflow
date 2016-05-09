@@ -1,7 +1,7 @@
 {
   "name": "frontflow",
   "version": "1.0.0",
-  "description": "Write better code and deploy your apps more easily and efficiently by processing your Sass, Compass, and CoffeeScript sources at the development stage, prior to production, using Gulp, Git, and Browserify.",
+  "description": "A frontend workflow to help you write better code and deploy your apps more easily and efficiently by processing your Sass, Compass, and CoffeeScript sources at the development stage, prior to production, using Gulp, Git, and Browserify.",
   "author": "Greg Raaum",
   "license": "ISC",
   "scripts": {
