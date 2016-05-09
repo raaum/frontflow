@@ -16,6 +16,7 @@ Write better code and deploy your apps more easily and efficiently by processing
 - Minifies your HTML
 - Minifies your JSON
 - Compresses your images
+- Includes an example application
 
 ## Installation
 1. Install Gulp, Git, and Node
