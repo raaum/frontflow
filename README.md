@@ -19,7 +19,7 @@ Write better code and deploy your apps more easily and efficiently by processing
 - Includes an example application
 
 ##Note
-You need to have Ruby and Compass installed and in your system PATH to initialize this project.
+You need to have Ruby and Compass installed and in your system PATH to initialize this project.  If you have no clue what that means, just use the sources as an example of how to construct your own workflow.
 
 ##Setting Paths
 
