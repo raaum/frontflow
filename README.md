@@ -3,7 +3,7 @@ A starter application that serves as an example of how to accomplish some common
 
 Write better code and deploy your apps more easily and efficiently by processing your Sass, Compass, and CoffeeScript sources at the development stage, prior to production, using Gulp, Git, and Browserify.
 
-## Features:
+## Features
 - Uses the latest npm sources
 - Processes tasks with Gulp
 - Imports libraries with Browserify
@@ -23,11 +23,8 @@ You need to have Ruby and Compass installed and in your system PATH to initializ
 
 ##Setting Paths
 
-- Windows:
-`$ set PATH=%PATH%;C:\Ruby200-x64\bin`
-
-- Mac:
-`$ export PATH=/usr/local/bin:$PATH`
+- Win `$ set PATH=%PATH%;C:\Ruby200-x64\bin`
+- Mac `$ export PATH=/usr/local/bin:$PATH`
 
 ## Installation
 1. Install Gulp, Git, and Node
