@@ -19,11 +19,13 @@ Write better code and deploy your apps more easily and efficiently by processing
 - Includes an example application
 
 ##Note
-You need to have Ruby and Compass installed and in your system PATH to initialize this project.  If you have no clue what that means, just use the sources as an example of how to construct your own workflow. The application is not the gold here.  The process is the gold.
+You need to have Ruby and Compass installed and in your system PATH to initialize this project.
 
 Setting Paths:
 - Win `$ set PATH=%PATH%;C:\Ruby200-x64\bin`
 - Mac `$ export PATH=/usr/local/bin:$PATH`
+
+ If you have no clue what the above means, just use `gulpfile.js` and `package.json` as an example of how to construct your own workflow. The application is not the gold here.  The process is the gold.
 
 ## Installation
 1. Install Gulp, Git, and Node
