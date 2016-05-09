@@ -1,4 +1,4 @@
-#Frontflow
+#frontflow
 A starter application that serves as an example of how to accomplish some common frontend tasks and workflows and improve your development. Write better code and deploy your apps more easily and efficiently by processing your Sass, Compass, and CoffeeScript sources at the development stage, prior to production, using Gulp, Git, and Browserify.
 
 ## Features:
@@ -17,7 +17,7 @@ A starter application that serves as an example of how to accomplish some common
 	- [git](http://git-scm.com/)
 	- [gulp](http://gulpjs.com/)
 2. `$ git clone https://github.com/raaum/frontflow.git`
-3. `$ cd Frontflow`
+3. `$ cd frontflow`
 4. `$ npm-install`
 5. `$ npm install -g gulp`
 6. `$ gulp`
