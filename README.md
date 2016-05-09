@@ -12,6 +12,9 @@ Write better code and deploy your apps more easily and efficiently by processing
 - Watches changes to files
 - Adds environmental variables
 - Adds static reloads
+- Processes your Sass CSS
+- Minifies your CSS
+- Minifies your CoffeeScript
 - Minifies your JavaScript
 - Minifies your HTML
 - Minifies your JSON
