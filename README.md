@@ -1,5 +1,5 @@
 #frontflow
-Write better code and deploy your apps more easily and efficiently by processing your Sass, Compass, and CoffeeScript sources at the development stage, prior to production, using Gulp, Git, and Browserify.
+A frontend workflow to help you write better code and deploy your apps more easily and efficiently by processing your Sass, Compass, and CoffeeScript sources at the development stage, prior to production, using Gulp, Git, and Browserify.
 
 Includes a starter application that serves as an example of how to accomplish some common frontend tasks and workflows, which will improve your development.
 
