@@ -21,8 +21,6 @@ Write better code and deploy your apps more easily and efficiently by processing
 ##Note
 You need to have Ruby and Compass installed and in your system PATH to initialize this project.  If you have no clue what that means, just use the sources as an example of how to construct your own workflow.
 
-##Setting Paths
-
 - Win `$ set PATH=%PATH%;C:\Ruby200-x64\bin`
 - Mac `$ export PATH=/usr/local/bin:$PATH`
 
